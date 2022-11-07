@@ -97,13 +97,8 @@
     </section>
     <!-- /.content -->
 
-
-
   </div>
   <!-- /.content-wrapper -->
 
  
-
-
-
 <?php  include('includes/footer.php'); ?>
